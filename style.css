@@ -44,4 +44,19 @@ ul{
      font-size: 25px;
      color:yellowgreen;
      list-style: none;
+     
 }
+a {
+    text-decoration: none;
+    color:sienna;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+li {
+    margin-bottom: 80px;
+}
+
+
